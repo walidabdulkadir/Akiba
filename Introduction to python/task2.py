@@ -1,9 +1,9 @@
 name = input("Enter your name : ")
 st_id = input("Enter id : ")
 dept = input("Enter department : ")
-year = input("Enter your learning year : ")
+year = int(input("Enter your learning year : "))
 uni = input("Enter your University : ")
-phone_number = input("Enter phone number : ")
+phone_number = int(input("Enter phone number : "))
 
 print(f"""
             +--------------------------------+
