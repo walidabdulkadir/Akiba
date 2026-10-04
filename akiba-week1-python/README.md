@@ -2,12 +2,12 @@
 
 ## 📋 Student Information
 
-| Field             | Details                        |
-| ----------------- | ------------------------------ |
-| **Name**          | Walid Abdulkadir               |
-| **GitHub Username** | `<https://github.com/walidabdulkadir>`    |
-| **Bootcamp**      | Akiba Technology               |
-| **Week**          | 1                              |
+| Field               | Details           |
+| ------------------- | ----------------- |
+| **Name**            | Walid Abdulkadir  |
+| **GitHub Username** | `walidabdulkadir` |
+| **Bootcamp**        | Akiba Technology  |
+| **Week**            | 1                 |
 
 ---
 
