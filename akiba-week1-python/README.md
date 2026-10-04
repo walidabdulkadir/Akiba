@@ -23,7 +23,7 @@
 - [x] Task 08 — Exam Result Report
 - [x] Task 09 — Currency Exchange
 - [x] Task 10 — BMI
-- [x] Task 11 — Student Profile System (Mini Project)
+- [] Task 11 — Student Profile System (Mini Project)
 
 ---
 
