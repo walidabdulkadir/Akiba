@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- **Name:** Walid Abdulkadir
+- **Name:** Your Full Name
 - **Course:** Python Programming
 - **Week:** 2
 
@@ -14,16 +14,16 @@
 
 ## Completed Tasks
 
-- [x] Task 01 — Even or Odd
-- [] Task 02 — Largest of Three
-- [] Task 03 — Prime Number Checker
-- [] Task 04 — Palindrome Checker
-- [] Task 05 — Sum of Digits
-- [] Task 06 — FizzBuzz
-- [] Task 07 — Number Guessing Game
-- [] Task 08 — Count Numbers
-- [] Task 09 — ATM PIN System
-- [] Task 10 — Number Analyzer
+1. Even or Odd
+2. Largest of Three
+3. Prime Number Checker
+4. Palindrome Checker
+5. Sum of Digits
+6. FizzBuzz
+7. Number Guessing Game
+8. Count Numbers
+9. ATM PIN System
+10. Number Analyzer
 
 ## How to Run
 
