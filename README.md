@@ -1,11 +1,9 @@
 # 🚀 Akiba Technologies — Software Engineering & Backend Bootcamp
 
-## Learn • Build • Connect • Grow
-
-![Program: 6 months](https://img.shields.io/badge/Program-6%20Months-blue?style=for-the-badge)
-![Focus: Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-success?style=for-the-badge)
-![Backend Engineering](https://img.shields.io/badge/Backend-Engineering-orange?style=for-the-badge)
-![Batch 01](https://img.shields.io/badge/Batch-01-purple?style=for-the-badge)
+   ![Program: 6 months](https://img.shields.io/badge/Program-6%20Months-blue?style=for-the-badge)
+   ![Focus: Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-success?style=for-the-badge)
+   ![Backend Engineering](https://img.shields.io/badge/Backend-Engineering-orange?style=for-the-badge)
+   ![Batch 01](https://img.shields.io/badge/Batch-01-purple?style=for-the-badge)
 
 ---
 
