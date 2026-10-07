@@ -1,7 +1,5 @@
 # 🚀 Akiba Technologies — Software Engineering & Backend Bootcamp
 
-![Akiba Bootcamp hero banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=AKIBA%20BOOTCAMP&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20%26%20Backend&descAlignY=65)
-
 ## Learn • Build • Connect • Grow
 
 ![Program: 6 months](https://img.shields.io/badge/Program-6%20Months-blue?style=for-the-badge)
@@ -16,6 +14,46 @@
 The **Akiba Technologies Software Engineering & Backend Bootcamp** is a 6-month intensive program focused on developing practical software engineering skills through **problem solving, backend development, mentorship, teamwork, and production-oriented projects**.
 
 The program builds from programming fundamentals and algorithms toward backend engineering and a team-based production capstone.
+
+---
+
+## 🎯 Program Vision
+
+Akiba Technologies is built around three core ideas:
+
+- **World-class technical standards** — developing engineers capable of building reliable and scalable software.
+- **Accessible opportunity** — reducing geographical and economic barriers for ambitious African software engineers.
+- **Career-focused engineering** — training engineers to build production-quality software and connecting strong graduates with global opportunities.
+
+The program builds on the **A2SV heritage**, carrying forward a culture of rigorous technical mentorship, problem solving, and continuous improvement.
+
+---
+
+## 🚀 What the Bootcamp Offers
+
+The bootcamp is designed to support learners from **junior to mid-level**, combining beginner-friendly explanations with challenging engineering problems.
+
+### Beginner Support
+
+Foundational concepts are introduced step by step, covering programming syntax, logic, patterns, and core engineering concepts.
+
+### Technical Rigor
+
+Participants work through algorithmic problem sets and technical challenges designed to strengthen problem-solving ability.
+
+### Engineering Practice
+
+The program goes beyond lectures through:
+
+- Daily laboratory sessions
+- Hands-on coding
+- Peer code reviews
+- Architecture breakdowns
+- Technical problem solving
+- Team projects
+- Production deployment
+
+This combination is designed to connect foundational knowledge with real software engineering practices.
 
 ---
 
@@ -66,37 +104,6 @@ Each phase lasts approximately **1.5 months** and ends with a mandatory technica
 `Team Development` `Agile` `Pull Requests` `Containers` `CI/CD` `Deployment`
 
 The official curriculum identifies these areas as the core technical focus of the four phases.
-
----
-
-```text
-akiba-bootcamp/
-│
-├── phase-01/
-│   ├── python/
-│   ├── oop/
-│   └── basic-dsa/
-│
-├── phase-02/
-│   ├── algorithms/
-│   ├── data-structures/
-│   └── console-project/
-│
-├── phase-03/
-│   ├── api/
-│   ├── database/
-│   ├── authentication/
-│   └── testing/
-│
-├── phase-04/
-│   ├── team-project/
-│   ├── deployment/
-│   └── demo/
-│
-└── README.md
-```
-
-> **Note:** This structure organizes my bootcamp work by learning phase. It can evolve as the projects and assignments grow.
 
 ---
 
