@@ -6,4 +6,4 @@ while number > 0:
     digit = number % 10
     digits_sum += digit
     number = number // 10
-    print(f"The sum all {number} digits are : {digits_sum}")
+print(f"The sum all digits are : {digits_sum}")
