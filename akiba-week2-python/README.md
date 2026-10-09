@@ -15,15 +15,15 @@
 ## Completed Tasks
 
 - [x] Task 01 — Even or Odd
-- [] Task 02 — Largest of Three
-- [] Task 03 — Prime Number Checker
-- [] Task 04 — Palindrome Checker
-- [] Task 05 — Sum of Digits
-- [] Task 06 — FizzBuzz
-- [] Task 07 — Number Guessing Game
-- [] Task 08 — Count Numbers
-- [] Task 09 — ATM PIN System
-- [] Task 10 — Number Analyzer
+- [x] Task 02 — Largest of Three
+- [x] Task 03 — Prime Number Checker
+- [x] Task 04 — Palindrome Checker
+- [x] Task 05 — Sum of Digits
+- [x] Task 06 — FizzBuzz
+- [x] Task 07 — Number Guessing Game
+- [x] Task 08 — Count Numbers
+- [x] Task 09 — ATM PIN System
+- [x] Task 10 — Number Analyzer
 
 ## How to Run
 
