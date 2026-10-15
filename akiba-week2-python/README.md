@@ -24,6 +24,7 @@
 - [x] Task 08 — Count Numbers
 - [x] Task 09 — ATM PIN System
 - [x] Task 10 — Number Analyzer
+- [ ] Mini Project - Bank System
 
 ## How to Run
 
