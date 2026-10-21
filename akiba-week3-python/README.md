@@ -15,17 +15,17 @@
 
 ## Tasks
 
-- [ ] Task 01 — Shopping Receipt
-- [ ] Task 02 — Student Analyzer
-- [ ] Task 03 — Number Analyzer
-- [ ] Task 04 — Text Analyzer
-- [ ] Task 05 — Bank Processor
-- [ ] Task 06 — Inventory Controller
-- [ ] Task 07 — Password Analyzer
-- [ ] Task 08 — Electricity Calculator
-- [ ] Task 09 — Quiz Engine
-- [ ] Task 10 — Expense Analyzer
-- [ ] Mini Project — Sales and Reports System
+- [x] Task 01 — Shopping Receipt
+- [x] Task 02 — Student Analyzer
+- [x] Task 03 — Number Analyzer
+- [x] Task 04 — Text Analyzer
+- [x] Task 05 — Bank Processor
+- [x] Task 06 — Inventory Controller
+- [x] Task 07 — Password Analyzer
+- [x] Task 08 — Electricity Calculator
+- [x] Task 09 — Quiz Engine
+- [x] Task 10 — Expense Analyzer
+- [] Mini Project — Sales and Reports System
 
 ## How to Run
 
