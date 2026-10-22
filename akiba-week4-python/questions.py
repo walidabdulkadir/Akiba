@@ -81,3 +81,28 @@ def update_list(items):
 
 update_list(scores)
 print(scores)
+
+
+# Question 5
+
+# 1, Python manages objects in memory automatically through memory 
+#    allocation, reference counting, and garbage collection.
+
+#    Garbage collection: identifying and reclaiming unreachable
+#    objects that reference each other in a cycle.
+
+# 2,
+num = [1,2,3,4]
+new_num = num
+num.append(5)
+
+del num
+print(new_num)
+ 
+# 3, del num deletes the variable name num, but it does not
+#    directly destroy the list object.
+
+# 4, yes, if there is no another reference that referee to the list
+
+# 5, it becomes eligible for memory reclamation, 
+#    and no longer can be displayed
